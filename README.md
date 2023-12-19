@@ -19,6 +19,12 @@ The design is intentionally minimalist, adhering to a basic or brutalist web des
 ## Future Plans
 Future updates will include styling with CSS to improve the website's visual appeal and user experience.
 
+## Reflections and Learnings
+
+- Gained knowledge about local cuisine, which influenced the recipe choices.
+- Explored various HTML validation tools, enhancing understanding of web standards.
+- Learned about multiple-cursor input, improving efficiency in editing HTML.
+
 ## How to Contribute
 Contributions are welcome. If you would like to contribute, please fork the repository and submit a pull request.
 
