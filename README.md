@@ -1,13 +1,15 @@
 # Odin Recipes
 
+# Odin Recipes
+
 ## Introduction
-Odin Recipes is a basic recipe website created as part of the Odin Project curriculum. The Odin Project is a comprehensive program for aspiring web developers, and this project aims to demonstrate foundational HTML skills.
+Odin Recipes is a basic recipe website created as part of the Odin Project curriculum. The Odin Project is a comprehensive program for aspiring web developers, and this project demonstrates foundational HTML skills. The recipes were chosen through a search for various cuisines, providing a diverse selection for the project.
 
 ## Project Description
-This project involves building a minimalist yet functional recipe website. The primary goal is to display an understanding of basic HTML structure and content organization, with a focus on creating a user-friendly and informative site.
+This project involves building a minimalist yet functional recipe website. The primary goal is to display an understanding of basic HTML structure and content organization, focusing on creating a user-friendly and informative site.
 
 ## Objective
-To practice and enhance HTML coding abilities, particularly in structuring a website and organizing content effectively, without delving into advanced styling or scripting.
+To practice and enhance HTML coding abilities, particularly in structuring a website and organizing content effectively, without delving into advanced styling or scripting. This includes practicing basic HTML elements like links, lists, paragraphs, and images.
 
 ## Technologies Used
 - HTML (HTML5)
@@ -50,30 +52,23 @@ odin-recipes/
 ### Malva Pudding
 [![Malva Pudding Recipe](img/screen-captures/medium-thumbnails/malva-pudding-page.jpg)](https://raw.githubusercontent.com/wizzardx/odin-recipes/main/img/screen-captures/malva-pudding-page.jpg)
 *Malva Pudding recipe page showcasing the description, ingredients, and preparation steps.*
-
 ## Current Design Philosophy
-Adopting a minimalist and brutalist design approach, the website focuses on functionality and straightforwardness. The goal is to present content in a clean and unadorned format, prioritizing ease of navigation and readability. [Learn more about minimalist web design](https://www.google.com/search?q=minimalist+web+design+examples).
+The website focuses on functionality and straightforwardness, adopting a minimalist design approach. This aligns with the project's focus on basic HTML, as per the Odin Project curriculum guidelines.
 
 ## Future Plans
-- Incorporate CSS for improved aesthetics and user interface design.
-- Implement responsive design for better accessibility on various devices.
-- Explore adding interactive elements using JavaScript.
+- Follow the Odin Project curriculum for future enhancements in CSS and JavaScript as I progress through the course.
 
 ## Reflections and Learnings
-- Enhanced knowledge of local and international cuisines through recipe research.
-- Utilized HTML validation tools to adhere to web standards, improving code quality.
-- Adopted efficient editing practices such as multiple-cursor input.
+- Reinforced foundational HTML skills taught in the curriculum through a practical project.
+- Practiced basic HTML elements like links, lists, paragraphs, and images.
 
 ## How to Contribute
-1. Fork the repository.
-2. Create a new feature branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add some feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Create a new Pull Request.
+For graphic design or image editing suggestions to enhance the project's visual appeal, please use the following:
+- [Discussions page](https://github.com/wizzardx/odin-recipes/discussions) for discussions about the project.
+- [Pull Request page](https://github.com/wizzardx/odin-recipes/pulls) to suggest changes or additions.
 
 ## Contact
-If you have any questions or want to discuss this project, please contact me at [wizzardx@email.com].
+For contributions or discussions about the project, please use the [discussions page](https://github.com/wizzardx/odin-recipes/discussions). To suggest changes or additions, feel free to make a [pull request](https://github.com/wizzardx/odin-recipes/pulls).
 
 ## License
 Odin Recipes is open source and available under the [MIT License](https://opensource.org/licenses/MIT). For detailed licensing information, see [LICENSE.md](LICENSES.md).
