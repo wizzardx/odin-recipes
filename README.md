@@ -23,4 +23,4 @@ Future updates will include styling with CSS to improve the website's visual app
 Contributions are welcome. If you would like to contribute, please fork the repository and submit a pull request.
 
 ## License
-This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
+This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT). See [LICENSES.md](LICENSES.md) for more details on specific assets.
