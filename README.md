@@ -71,4 +71,4 @@ For graphic design or image editing suggestions to enhance the project's visual 
 For contributions or discussions about the project, please use the [discussions page](https://github.com/wizzardx/odin-recipes/discussions). To suggest changes or additions, feel free to make a [pull request](https://github.com/wizzardx/odin-recipes/pulls).
 
 ## License
-Odin Recipes is open source and available under the [MIT License](https://opensource.org/licenses/MIT). For detailed licensing information, see [LICENSE.md](LICENSES.md).
+Odin Recipes is open source and available under the [MIT License](https://opensource.org/licenses/MIT). For detailed information on third-party licensing, see [LICENSES.md](LICENSES.md), which contains licensing details for images and other third-party resources used in the project.
