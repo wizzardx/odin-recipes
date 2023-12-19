@@ -42,15 +42,15 @@ odin-recipes/
 ## Screenshots
 
 ### Lasagna
-[![Lasagna Recipe](img/screen-captures/medium-thumbnails/lasagna-page.jpg)](https://raw.githubusercontent.com/wizzardx/odin-recipes/main/img/screen-captures/lasagna-page.jpg)
+[![Lasagna Recipe](img/screen-captures/medium-thumbnails/lasagna.jpg)](https://raw.githubusercontent.com/wizzardx/odin-recipes/main/img/screen-captures/lasagna-page.jpg)
 *Classic Lasagna recipe page featuring a step-by-step cooking process.*
 
 ### Cape Malay Curry
-[![Cape Malay Curry Recipe](img/screen-captures/medium-thumbnails/cape-malay-curry-page.jpg)](https://raw.githubusercontent.com/wizzardx/odin-recipes/main/img/screen-captures/cape-malay-curry-page.jpg)
+[![Cape Malay Curry Recipe](img/screen-captures/medium-thumbnails/cape_malay_curry.jpg)](https://raw.githubusercontent.com/wizzardx/odin-recipes/main/img/screen-captures/cape-malay-curry-page.jpg)
 *Cape Malay Curry recipe page with detailed instructions and ingredient list.*
 
 ### Malva Pudding
-[![Malva Pudding Recipe](img/screen-captures/medium-thumbnails/malva-pudding-page.jpg)](https://raw.githubusercontent.com/wizzardx/odin-recipes/main/img/screen-captures/malva-pudding-page.jpg)
+[![Malva Pudding Recipe](img/screen-captures/medium-thumbnails/malva_pudding.jpg)](https://raw.githubusercontent.com/wizzardx/odin-recipes/main/img/screen-captures/malva-pudding-page.jpg)
 *Malva Pudding recipe page showcasing the description, ingredients, and preparation steps.*
 ## Current Design Philosophy
 The website focuses on functionality and straightforwardness, adopting a minimalist design approach. This aligns with the project's focus on basic HTML, as per the Odin Project curriculum guidelines.
