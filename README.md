@@ -39,18 +39,17 @@ odin-recipes/
 ```
 ## Screenshots
 
-### Malva Pudding
-[![Malva Pudding Recipe](img/screen-captures/medium-thumbnails/malva-pudding-page.jpg)](img/screen-captures/malva-pudding-page.jpg)
-*Malva Pudding recipe page showcasing the description, ingredients, and preparation steps.*
-
-### Cape Malay Curry
-[![Cape Malay Curry Recipe](img/screen-captures/medium-thumbnails/cape-malay-curry-page.jpg)](img/screen-captures/cape-malay-curry-page.jpg)
-*Cape Malay Curry recipe page with detailed instructions and ingredient list.*
-
 ### Lasagna
-[![Lasagna Recipe](img/screen-captures/medium-thumbnails/lasagna-page.jpg)](img/screen-captures/lasagna-page.jpg)
+[![Lasagna Recipe](img/screen-captures/medium-thumbnails/lasagna-page.jpg)](https://raw.githubusercontent.com/wizzardx/odin-recipes/main/img/screen-captures/lasagna-page.jpg)
 *Classic Lasagna recipe page featuring a step-by-step cooking process.*
 
+### Cape Malay Curry
+[![Cape Malay Curry Recipe](img/screen-captures/medium-thumbnails/cape-malay-curry-page.jpg)](https://raw.githubusercontent.com/wizzardx/odin-recipes/main/img/screen-captures/cape-malay-curry-page.jpg)
+*Cape Malay Curry recipe page with detailed instructions and ingredient list.*
+
+### Malva Pudding
+[![Malva Pudding Recipe](img/screen-captures/medium-thumbnails/malva-pudding-page.jpg)](https://raw.githubusercontent.com/wizzardx/odin-recipes/main/img/screen-captures/malva-pudding-page.jpg)
+*Malva Pudding recipe page showcasing the description, ingredients, and preparation steps.*
 
 ## Current Design Philosophy
 Adopting a minimalist and brutalist design approach, the website focuses on functionality and straightforwardness. The goal is to present content in a clean and unadorned format, prioritizing ease of navigation and readability. [Learn more about minimalist web design](https://www.google.com/search?q=minimalist+web+design+examples).
