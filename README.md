@@ -1,7 +1,7 @@
-# Grandma's Kitchen
+# Odin Recipes
 
 ## Project Description
-Grandma's Kitchen is a basic recipe website, designed to showcase fundamental HTML skills. This project involves building a website with an index page linking to various recipes.
+Odin Recipes is a basic recipe website, designed to showcase fundamental HTML skills. This project involves building a website with an index page linking to various recipes.
 
 ## Objective
 The primary objective is to practice and enhance HTML coding abilities, focusing on structure and content organization without advanced styling.
