@@ -6,3 +6,4 @@
 /hint-report/
 /.htmlvalidate.json
 *.html.json
+/.stylelintrc
