@@ -20,6 +20,8 @@ odin-recipes/
 ├── index.html # Main landing page with links to all recipes
 ├── README.md # This file
 |── LICENSE.md # License information
+|── css/  # Directory containing CSS stylesheet files
+│ ├── style.css # Main CSS file
 |── img/
 │ ├── malva-pudding.jpg
 │ ├── lasagna.jpg
