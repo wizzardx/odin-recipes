@@ -10,16 +10,16 @@
 
 /* All ul elements within the main page should have no padding, and no bullets */
 .main-page ul {
-    padding: 0;
     list-style-type: none;
+    padding: 0;
 }
 
 /* All images within the main page should have a width of 150px, an automatic height, and a margin-bottom of 10px */
 .main-page img {
-    width: 150px;
-    height: auto;
     display: block;
+    height: auto;
     margin: 0 auto;
+    width: 150px;
 }
 
 /* All pages have a pale light pink background */
@@ -29,14 +29,17 @@ body {
 
 /* List items within recipe pages have a crazy font */
 .recipe-body li {
-    /*font-family: 'Comic Sans MS', cursive, sans-serif;*/
-    /* Also their foreground color is orange */
+    /* font-family: 'Comic Sans MS', cursive, sans-serif; */
+
+    /* Their foreground color is orange */
     color: #8a2323;
-    /* And they are slightly tilted */
-    transform: rotate(-1deg);
+
+    /* font-family: "Lucida Console", "Courier New", monospace; */
+    font-family: "Courier New", monospace;
+
     /* They have an ultra-bold font weight */
     font-weight: 900;
 
-    /*font-family: "Lucida Console", "Courier New", monospace;*/
-    font-family: "Courier New", monospace
+    /* They are slightly tilted */
+    transform: rotate(-1deg);
 }
