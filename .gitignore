@@ -1,0 +1,8 @@
+/.idea
+/validate.sh
+/format_w3c_report.py
+*.kate-swp
+/.validator-tools-last-upgraded
+/hint-report/
+/.htmlvalidate.json
+*.html.json
